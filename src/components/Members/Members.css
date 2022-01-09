@@ -1,0 +1,17 @@
+.member-outer{
+    display: flex;
+    width: 20%;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.member{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.member img{
+    height: 30px;
+}
+.member p{
+    display: none;
+}

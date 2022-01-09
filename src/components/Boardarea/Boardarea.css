@@ -1,0 +1,6 @@
+.Boardarea{
+    display: flex;
+    height:80%;
+    flex-direction: row;
+    justify-content: space-evenly;
+}

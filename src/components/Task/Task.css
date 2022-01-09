@@ -1,0 +1,25 @@
+.Task{
+    display: flex;
+    border: 1px solid black ;
+    padding: 10px;
+    margin: 10px;
+    /* justify-content: space-between; */
+}
+.TaskInfo{
+    font-size: 14px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+.Assignee{
+    text-align: end;
+}
+.red{
+    border:3px solid red;
+}
+.green{
+    border:3px solid green;
+}
+.editBtn{
+    cursor: pointer;
+}
